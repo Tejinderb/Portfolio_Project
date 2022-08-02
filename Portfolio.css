@@ -82,8 +82,6 @@ body {
   
   /*ARROW LINK*/
   #down-arrow {
-    /*position: absolute;
-    width: 100%;*/
     margin-top: auto;
     text-align: center;
     margin-bottom: 50px;
@@ -95,7 +93,6 @@ body {
   
   /*CONTENT*/
   .container {
-    /*sets up flexbox*/
     display: flex;
     flex-direction: column;
   }
@@ -157,8 +154,6 @@ body {
     padding: .75rem 1.25rem;
     background-color: white;
     border-bottom: 1px solid rgba(0,0,0,.075);
-    /* border-top-left-radius: .25rem;
-    border-top-right-radius: .25rem; */
   }
   
   .card-content {
@@ -240,8 +235,6 @@ body {
     margin-bottom: 10px;
     background: #ebeff2;
     color: black;
-    -webkit-transition: .5s ease all;
-    transition: .5s ease all;
   }
   
   .contact textarea {
@@ -259,8 +252,6 @@ body {
     color: #3498db;
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    -webkit-transition: .5s ease all;
-    transition: .5s ease all;
   }
   
   .white-text {
